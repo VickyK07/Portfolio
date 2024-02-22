@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+Hi, my name is Vicky Kumar student of 2020 batch pursuing btech in the field of ECE from B. P. Poddar Institute of Management and Technology Kolkata.
 
 
 Template Info:
@@ -20,14 +20,7 @@ Version 1.0 14-05-2018
 
 Credits:
 -----------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
+Thank you Brownie for this wonderful portfolio template.
 
 License:
 -----------------------
